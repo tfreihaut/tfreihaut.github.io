@@ -1,19 +1,25 @@
 papers:
 
-  - title: "Learning Equilibria from Data: Provably Efficient Multi-Agent Imitation Learning"
-    authors: "<b>Till Freihaut</b><sup>‡</sup>, Luca Viano<sup>‡</sup>, Volkan Cevher, Matthieu Geist, Giorgia Ramponi"
+  - title: "Rate optimal learning equilibria from data"
+    authors: "<b>Till Freihaut</b><sup>‡</sup>, Luca Viano<sup>‡</sup>, Emanuele Nevali,Volkan Cevher, Matthieu Geist, Giorgia Ramponi"
     venue: "Arxiv'25: arXiv preprint. 2025."
-    paper_pdf: "/assets/publications/2025_imitation/imitation_paper.pdf"
+    paper_pdf: "/assets/publications/2025_imitation/rate_paper.pdf"
     selected: y
 
-  - title: "Barycenter Policy Design for Multiple Policy Evaluation"
-    authors: "Simon Weissmann<sup>‡</sup>, <b>Till Freihaut</b><sup>‡</sup>, Claire Vernade, Giorgia Ramponi, Leif Döring"
-    venue: "Arxiv'25: arXiv preprint. 2025."
-    paper_pdf: "/assets/publications/2025_is/is_paper.pdf"
+  - title: "Learning Equilibria from Data: Provably Efficient Multi-Agent Imitation Learning"
+    authors: "<b>Till Freihaut</b><sup>‡</sup>, Luca Viano<sup>‡</sup>, Volkan Cevher, Matthieu Geist, Giorgia Ramponi"
+    venue: "NeurIPS 2025."
+    paper_pdf: "/assets/publications/2025_imitation/imitation_paper.pdf"
     selected: y
 
   - title: "On Feasible Rewards in Multi-Agent Inverse Reinforcement Learning"
     authors: "<b>Till Freihaut</b>, Giorgia Ramponi"
-    venue: "Arxiv'25: arXiv preprint. 2025."
+    venue: "NeurIPS 2025."
     paper_pdf: "/assets/publications/2025_inverse/inverse_paper.pdf"
+    selected: y
+
+  - title: "Barycenter Policy Design for Multiple Policy Evaluation"
+    authors: "Simon Weissmann<sup>‡</sup>, <b>Till Freihaut</b><sup>‡</sup>, Claire Vernade, Giorgia Ramponi, Leif Döring"
+    venue: "EWRL 2025."
+    paper_pdf: "/assets/publications/2025_is/is_paper.pdf"
     selected: y
