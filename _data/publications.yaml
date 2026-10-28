@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Inferring Transferable Rewards via Active Inverse Reinforcement Learning"
+    authors: "Victor Villin, <b>Till Freihaut</b><sup>‡</sup>, Andreas Schlaginhaufen<sup>‡</sup>, Christos Dimitrakakis, Maryam Kamgarpour, Giorgia Ramponi"
+    venue: "EWRL 2026."
+    paper_pdf: "/assets/publications/2026_active_iverse/Inferring_Transferable_Rewards_EWRL.pdf"
+    selected: y
+
   - title: "Multi-agent imitation learning with function approximation: Linear Markov games and beyond"
     authors: "Luca Viano<sup>‡</sup>, <b>Till Freihaut</b><sup>‡</sup>, Emanuele Nevali,Volkan Cevher, Matthieu Geist, Giorgia Ramponi"
     venue: "ICML 2026."
